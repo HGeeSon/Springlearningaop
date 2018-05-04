@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/wf/springaop/ArithmeticCalculatorLoggingProxy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wf/springaop/Main.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wf/springaopImpl/LoggingAspect.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wf/springaopImpl/ValidateAspect.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wf/springaopImplxml/LoggingAspect.java" charset="GBK" />
+  </component>
+</project>
